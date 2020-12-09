@@ -49,7 +49,5 @@ def main():
         if possibleID not in idList:
             print(possibleID)  # part 2
     
-
-
 if __name__ == "__main__":
     main()

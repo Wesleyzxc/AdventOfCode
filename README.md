@@ -10,3 +10,9 @@ Modulo and match character
 
 ## Day 4
 Regex matches
+
+## Day 5
+Decoding airport seats
+
+## Day 6
+Sets, intersection & unions
